@@ -38,7 +38,7 @@ whether he committed a crime or ask him questions about something private and
 personal that the prisoner would not want to divulge.
 
 **Update**
-: my friend, Jordan Kadish, adds: Leading questions might affect the prisoner's
+: My friend, Jordan Kadish, adds: Leading questions might affect the prisoner's
 thoughts so a persuasive interrogator (assuming bad intent) will more often than
 not get what they want out of the prisoner. Also people, people can think of
 things that they didn't do. For example, I could imagine myself killing victim x
