@@ -6,7 +6,7 @@ draft: false
 
 Nobody -- not even the devil -- can read a man's mind. A while ago my sister
 told me about a man named Viktor Frankl who was interned in a concentration camp
-during the holocaust who found solace in the fact that no matter what they did
+during the Holocaust who found solace in the fact that no matter what they did
 to him physically at least his mind was free. They could torment him physically
 but his mind would always be his own.[1][2] This was during the Second World
 War, and since then a lot has been invested into trying to understand and
@@ -74,18 +74,18 @@ B ---> A (B sends)
 B <--- A (B receives)
 ```
 
-In quasi-cryptographic terms, we are describing way for two parties negotiate
-how to communicate bidirectionally over a communication channel. If we someday
-figure out how to enable everyone to communicate telepathically we would need to
-ensure that such a protocol exists. The protocol envisioned above depicts four
-circuit breakers between A and B:
+In quasi-cryptographic terms, we are describing way for two parties to negotiate
+in order to communicate bidirectionally over a communication channel. If we
+someday figure out how to enable everyone to communicate telepathically we would
+need to ensure that such a protocol exists. The protocol envisioned above
+depicts four circuit breakers between A and B:
 
 1. A allows B to send thoughts to A
 2. A allows B to receive thoughts from A
 3. B allows A to send thoughts to B
 4. B allows A to receive thoughts from B
 
-The above idea is a nascent one and is admittedly a crude one but nevertheless
+The above idea is a nascent one and is admittedly a crude but nevertheless
 interesting to consider but in the next century it may not be difficult to
 imagine mobile devices being replaced by telepathy.
 
@@ -95,4 +95,5 @@ imagine mobile devices being replaced by telepathy.
 prisoners to see if they could be mentally controlled. The scientists who worked
 there were later absorbed by [Operation Paper Clip](https://en.wikipedia.org/wiki/Operation_Paperclip) and became part of the CIA's
 [MKUltra program](https://en.wikipedia.org/wiki/Project_MKUltra).
+
 [2]: Mind Control: "From Nazis to DARPA David Flores"
