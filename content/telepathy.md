@@ -49,14 +49,14 @@ undeniable.
 
 Let us postpone ethical discussions for another time and now consider how two
 parties (who are presumably good people) might communicate telepathically.
-Suppose two parties A and B to communicate telepathically and vice versa. How
-should A and B negotiate how they are to communicate to one another? A could ask
+Suppose two parties A and B communicate telepathically. How should A and B
+negotiate how they are to communicate to one another? A could ask
 (telepathically): "I would like to tell you something, B" and B might respond:
 "Yes, OK you can talk to me but I might not reply or "OK, A, I will let you talk
 to me and I may not respond to what you have to say." The purpose of giving
 specific replies such as these is to establish clear boundaries between what A
 and B will allow so that their communication is concordant with what each party
-will allow, and does not become invasive. 
+will allow, and does not become invasive.
 
 This implies that we need a circuit breaker to prevent either A or B from
 sending or receiving thoughts from each other which they don't allow.  The
