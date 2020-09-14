@@ -37,16 +37,14 @@ Perhaps instead of asking about fruit, the interrogator might ask the prisoner
 whether he committed a crime or ask him questions about something private and
 personal that the prisoner would not want to divulge.
 
-**Update**: My friend, Jordan Kadish, adds:
-```
-Leading questions might affect the prisoner's thoughts so a persuasive
-interrogator (assuming bad intent) will more often than not get what they want
-out of the prisoner. Also people, people can think of things that they didn't
-do. For example, I could imagine myself killing victim x whereas in reality that
-may not be the case." **Though Reader 2000(TM)** would be analogous to a lie
-detector. In light of my friend's observation, the machine could perhaps also be
-branded **Thought Influencer 2000(TM)**.
-```
+**Update**
+: my friend, Jordan Kadish, adds: Leading questions might affect the prisoner's
+thoughts so a persuasive interrogator (assuming bad intent) will more often than
+not get what they want out of the prisoner. Also people, people can think of
+things that they didn't do. For example, I could imagine myself killing victim x
+whereas in reality that may not be the case." **Though Reader 2000(TM)** would
+be analogous to a lie detector. In light of my friend's observation, the machine
+could perhaps also be branded **Thought Influencer 2000(TM)**.
 
 This thought experiment raises some interesting ethical
 questions. On the one hand we have considered a machine that could theoretically
