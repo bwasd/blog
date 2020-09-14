@@ -35,17 +35,28 @@ but fruit or perhaps nothing at all.
 
 Perhaps instead of asking about fruit, the interrogator might ask the prisoner
 whether he committed a crime or ask him questions about something private and
-personal that the prisoner would not want to divulge. **Though Reader 2000(TM)**
-would be analogous to a lie detector. This thought experiment raises some
-interesting ethical questions. On the one hand we have considered a machine that
-could theoretically be better than the best lie detector designed to date. On
-the other hand, the **Thought Reader 2000(TM)** would in evil hands allow people
-to be tortured and possibly driven to madness and despair.On the other hand, the
-benefits of such a machine would enable people to communicate telepathically.
-Two parties could communicate telepathically by hooking themselves up via human
-brain interface devices and communicate directly to each other's brains. The
-convenience of two people who wanted a simple way to communicate seems
-undeniable.
+personal that the prisoner would not want to divulge.
+
+**Update**: My friend, Jordan Kadish, adds:
+```
+Leading questions might affect the prisoner's thoughts so a persuasive
+interrogator (assuming bad intent) will more often than not get what they want
+out of the prisoner. Also people, people can think of things that they didn't
+do. For example, I could imagine myself killing victim x whereas in reality that
+may not be the case." **Though Reader 2000(TM)** would be analogous to a lie
+detector. In light of my friend's observation, the machine could perhaps also be
+branded **Thought Influencer 2000(TM)**.
+```
+
+This thought experiment raises some interesting ethical
+questions. On the one hand we have considered a machine that could theoretically
+be better than the best lie detector designed to date. On the other hand, the
+**Thought Reader 2000(TM)** would in evil hands allow people to be tortured and
+possibly driven to madness and despair.On the other hand, the benefits of such a
+machine would enable people to communicate telepathically.  Two parties could
+communicate telepathically by hooking themselves up via human brain interface
+devices and communicate directly to each other's brains. The convenience of two
+people who wanted a simple way to communicate seems undeniable.
 
 Let us postpone ethical discussions for another time and now consider how two
 parties (who are presumably good people) might communicate telepathically.
