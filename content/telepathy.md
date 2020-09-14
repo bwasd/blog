@@ -11,11 +11,9 @@ to him physically at least his mind was free. They could torment him physically
 but his mind would always be his own.[1][2] This was during the Second World
 War, and since then a lot has been invested into trying to understand and
 manipulate the human brain: head transplants, artificial intelligence, powerful
-nootropics and human brain interfaces may not be far off. In this essay,
-hypothetically how telepathy might work, that is, how thoughts might be
-exchanged between individuals.
-
-<a href="static/yuri.jpg">Yuri</a>
+nootropics and human brain interfaces may not be far off. In this essay, I
+consider how telepathy would work hypothetically, that is, how thoughts might be
+exchanged between two individuals.
 
 Suppose that thoughts could be read by a machine -- let us call this
 hypothetical machine the **Thought Reader 2000(TM)** -- and that a prisoner
@@ -31,7 +29,7 @@ knowing whether or not he is indeed thinking about fruit or not. The very
 questions being asked might cause him to start thinking about apples and bananas
 but regardless, even if the prisoner wasn't thinking about fruit to begin with
 his goal is to resist having his thoughts read by **Thought Reader 2000(TM)**.
-How would the prisoner to prevent the interrogator from reading his thoughts? We
+How would the prisoner prevent the interrogator from reading his thoughts? We
 might say that he would have to use the force of his will to think of anything
 but fruit or perhaps nothing at all.
 
@@ -43,10 +41,10 @@ interesting ethical questions. On the one hand we have considered a machine that
 could theoretically be better than the best lie detector designed to date. On
 the other hand, the **Thought Reader 2000(TM)** would in evil hands allow people
 to be tortured and possibly driven to madness and despair.On the other hand, the
-benefits of such a machine would to enable people o communicate telepathically.
+benefits of such a machine would enable people to communicate telepathically.
 Two parties could communicate telepathically by hooking themselves up via human
 brain interface devices and communicate directly to each other's brains. The
-convenience of to people who wanted a simple way to communicate seems
+convenience of two people who wanted a simple way to communicate seems
 undeniable.
 
 Let us postpone ethical discussions for another time and now consider how two
